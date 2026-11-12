@@ -1,0 +1,17 @@
+total 56
+drwxr-x--- 8 soonjin4105185 soonjin4105185 4096 Nov 12 11:05 .
+drwxr-xr-x 3 root           root           4096 Nov 11 09:50 ..
+lrwxrwxrwx 1 soonjin4105185 soonjin4105185   32 Nov 11 11:35 .aws -> /mnt/c/Users/soonjin4105185/.aws
+lrwxrwxrwx 1 soonjin4105185 soonjin4105185   34 Nov 11 11:35 .azure -> /mnt/c/Users/soonjin4105185/.azure
+-rw------- 1 soonjin4105185 soonjin4105185 6047 Nov 11 16:08 .bash_history
+-rw-r--r-- 1 soonjin4105185 soonjin4105185  220 Nov 11 09:50 .bash_logout
+-rw-r--r-- 1 soonjin4105185 soonjin4105185 3771 Nov 11 09:50 .bashrc
+drwxr-x--- 4 soonjin4105185 soonjin4105185 4096 Nov 11 09:52 .cache
+drwxr-x--- 3 soonjin4105185 soonjin4105185 4096 Nov 11 09:52 .config
+drwxr-xr-x 5 soonjin4105185 soonjin4105185 4096 Nov 11 11:45 .docker
+-rw------- 1 soonjin4105185 soonjin4105185   20 Nov 11 12:13 .lesshst
+-rw-rw-r-- 1 soonjin4105185 soonjin4105185    0 Nov 12 11:01 .motd_shown
+-rw-r--r-- 1 soonjin4105185 soonjin4105185  807 Nov 11 09:50 .profile
+drwxr-xr-x 2 soonjin4105185 soonjin4105185 4096 Nov 11 11:27 linux-permission-practice
+drwxr-xr-x 2 soonjin4105185 soonjin4105185 4096 Nov 11 09:56 linux-practice
+drwxr-xr-x 2 soonjin4105185 soonjin4105185 4096 Nov 12 11:07 pink-panda-workspace
